@@ -9,6 +9,8 @@
 > “Chi controlla il codice, controlla la realtà.”
 
 
+
+
 ### 👋 Hi, I’m Christian (@Chr0n0s94)
 
 - 🧠 I’m a full-stack developer (JS, PHP) into cyber security, logic, and deep thinking.
