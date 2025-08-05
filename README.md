@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-[Portfolio](https://chr0n0s.altervista.org)
+[[Portfolio](https://tuoportfolio.com)](https://chr0n0s.altervista.org)
 
 
 <!---
